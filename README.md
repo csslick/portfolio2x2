@@ -1,2 +1,2 @@
 # portfolio2x2
-4x4 portfolio layout
+2x2 portfolio layout
